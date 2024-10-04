@@ -1,0 +1,11 @@
+// ["sumit","amit","anil","anish"]
+let set1 = new Set(["sumit","sumit","amit","anil","anish"]);
+
+// it contains 'f', 'o', 'd'
+let set2 = new Set("fooooooood");
+
+// it contains [10, 20, 30, 40]
+let set3 = new Set([10, 20, 30, 30, 40, 40]);
+
+ // it is an  empty set
+let set4 = new Set();
